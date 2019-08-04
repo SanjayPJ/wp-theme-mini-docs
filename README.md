@@ -60,7 +60,7 @@ Get data using
 get_field(variable_name)
 ```
 
-## Custom Post Type using
+## Custom Post Type UI
 
 Install Plugin
 
